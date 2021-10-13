@@ -1,0 +1,29 @@
+i{
+    font-size: 36px; 
+    padding: 5px;
+}
+
+i:first-of-type{
+    color: #1877F2;
+}
+
+i:nth-of-type(2){
+    color: #E4405F;
+}
+
+i:nth-of-type(3){
+    color: #CD201F;
+}
+
+i:nth-of-type(4){
+    color: #0A66C2;
+}
+
+i:nth-of-type(5){
+    color: #25D366;
+}
+
+div, p{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
